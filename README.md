@@ -1,1 +1,1 @@
-# vum-repository
+Vum - is a terminal for installing most Windows 10 programs.
